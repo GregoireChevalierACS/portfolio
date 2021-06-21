@@ -1,6 +1,6 @@
 <template>
-    <div class="bg-purple-600 fixed w-screen h-12">
-        test
+    <div>
+        <button></button>
     </div>
 </template>
 
@@ -9,3 +9,7 @@ export default {
 
 }
 </script>
+
+<style>
+
+</style>
