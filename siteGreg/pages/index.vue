@@ -1,5 +1,5 @@
 <template>
-  <div class="w-screen h-screen bg-gray-800 flex flex-row">
+  <div class="w-screen h-auto bg-gray-800 flex flex-row">
     <the-navbar />
     <the-lmargin />
     <the-context />
